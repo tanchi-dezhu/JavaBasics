@@ -1,6 +1,6 @@
 package com.synchronization;
 
-public class threadSynchronization {
+public class ThreadSynchronization {
     class Bank {
 
         private int account = 100;
@@ -61,7 +61,7 @@ public class threadSynchronization {
     }
 
     public static void main(String[] args) {
-        threadSynchronization st = new threadSynchronization();
+        ThreadSynchronization st = new ThreadSynchronization();
         st.useThread();
     }
 }
