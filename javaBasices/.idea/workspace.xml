@@ -20,46 +20,48 @@
     <session id="-311467656">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.open.time.94" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="23" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="6" />
-          <entry key="java" value="442" />
+          <entry key="dummy" value="7" />
+          <entry key="java" value="529" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="442" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="529" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,19 +70,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/classLoader/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="489" column="43" lean-forward="true" selection-start-line="489" selection-start-column="43" selection-end-line="489" selection-end-column="43" />
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest1.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/classLoader/ClassLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="507">
+              <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+              <folding>
+                <element signature="e#1143#1144#0" expanded="true" />
+                <element signature="e#1170#1171#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+                <element signature="e#1242#1243#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,6 +123,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/Reflex/reflex.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/classLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/classLoader/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/classLoader/ClassLoader.java" />
       </list>
     </option>
   </component>
@@ -142,6 +155,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,40 +198,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBasices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaBasices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasices" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="Reflex" type="462c0819:PsiDirectoryNode" />
-              <item name="ReflexTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="classLoader" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566740972410" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566913551915" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -235,13 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReflexTest">
-    <configuration name="Product" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.synchronization.Product" />
+  <component name="RunManager" selected="Application.ClassLoader">
+    <configuration name="ClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.classLoader.ClassLoader" />
       <module name="javaBasices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.synchronization.*" />
+          <option name="PATTERN" value="com.classLoader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,11 +244,11 @@
       </method>
     </configuration>
     <configuration name="ReflexTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Reflex.ReflexTest" />
+      <option name="MAIN_CLASS_NAME" value="com.reflex.ReflexTest" />
       <module name="javaBasices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Reflex.*" />
+          <option name="PATTERN" value="com.reflex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,19 +296,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Product" />
       <item itemvalue="Application.UdpClient" />
       <item itemvalue="Application.UdpServer" />
       <item itemvalue="Application.TcpClient" />
       <item itemvalue="Application.ReflexTest" />
+      <item itemvalue="Application.ClassLoader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassLoader" />
         <item itemvalue="Application.ReflexTest" />
         <item itemvalue="Application.TcpClient" />
         <item itemvalue="Application.UdpClient" />
         <item itemvalue="Application.UdpServer" />
-        <item itemvalue="Application.Product" />
       </list>
     </recent_temporary>
   </component>
@@ -333,11 +327,13 @@
       <workItem from="1566650969136" duration="2512000" />
       <workItem from="1566653811128" duration="410000" />
       <workItem from="1566739146608" duration="2020000" />
+      <workItem from="1566741340126" duration="161000" />
+      <workItem from="1566910067032" duration="1575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8586000" />
+    <option name="totallyTimeSpent" value="10322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -347,7 +343,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26340482" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27010724" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -443,28 +439,34 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest.java</url>
           <line>9</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest.java</url>
-          <line>100</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest.java</url>
+          <line>101</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest.java</url>
-          <line>69</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest.java</url>
+          <line>70</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest.java</url>
-          <line>82</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest.java</url>
+          <line>83</line>
           <properties />
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/classLoader/ClassLoader.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/main/java/com/synchronization/ThreadSynchronization.java</url>
@@ -491,6 +493,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>testClass</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>methodMain</expression-string>
         <language-id>JAVA</language-id>
@@ -641,26 +648,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest1.java">
+    <entry file="jar://E:/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1783" column="28" lean-forward="true" selection-start-line="1783" selection-start-column="28" selection-end-line="1783" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8151">
+          <caret line="489" column="43" selection-start-line="489" selection-start-column="43" selection-end-line="489" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Java/jdk1.8.0_161/src.zip!/java/lang/reflect/Method.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/reflex/ReflexTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="489" column="43" lean-forward="true" selection-start-line="489" selection-start-column="43" selection-end-line="489" selection-end-column="43" />
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Reflex/ReflexTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/classLoader/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/classLoader/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="58" column="32" lean-forward="true" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1242#1243#0" expanded="true" />
           </folding>
         </state>
       </provider>

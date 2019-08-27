@@ -1,4 +1,4 @@
-package com.Reflex;
+package com.reflex;
 
 import java.lang.reflect.Array;
 import java.lang.reflect.Constructor;
@@ -53,10 +53,11 @@ public class ReflexTest {
         // 通过反射得到Java类方法
         Method methodCharAt = String.class.getMethod("charAt", int.class);
         // 调用方法必须在某个对象上调
+        //str1实例化后的对象，1调用方法的参数。
         System.out.println(methodCharAt.invoke(str1, 1));
 
         // 反射执行类中的main方法 main方法为静态方法。传递对象可为null
-        Method methodMain = Class.forName("com.Reflex.MethodTest").getMethod(
+        Method methodMain = Class.forName("com.reflex.MethodTest").getMethod(
                 "main", String[].class);
         System.out.println(methodMain.invoke(null, new Object[]{new String[]{
                 "aaa", "bbb"}}));

@@ -1,4 +1,4 @@
-package com.Reflex;
+package com.reflex;
 
 public class ReflexTest1 {
     private int x;
