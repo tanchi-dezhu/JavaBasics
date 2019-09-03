@@ -9,7 +9,7 @@ public class ThreadSynchronization {
             return account;
         }
 
-        /**
+        /**t
          * 用同步方法实现
          *
          * @param money
